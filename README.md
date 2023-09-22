@@ -1,2 +1,2 @@
 # Cribbage-Databases
-Cribbage Databases and the python scripts that generated them
+Cribbage Databases and Python Jupyter Lab Files
